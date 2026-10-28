@@ -3,7 +3,7 @@
 Instead of just chilling, I decided to play life on hard mode: juggling a full time job while grinding for my master's degree. 
 
 **Here's the quick flex:**
-* 🛡️ **Cyber Security:** B.Sc. graduate (GPA 3.67/4.00) who's lowkey used to Ethical Hacking & Digital Forensics. Long story short, i can audit ur logs, but no, i won't hack ur ex.
+* 🛡️ **Cyber Security:** B.Sc. graduate (GPA 3.67/4.00) who's lowkey used to Ethical Hacking & Digital Forensics. Long story short, i can audit ur logs, but no, i wont hack ur ex
 * 🎓 **Grinding M.Sc (BI) at 22:** Currently doing my Master's in Business Intelligence at President University while working full time. Why pick between academic stress n corporate drama when u can literally have both?
 * 🤖 **Machine Learning:** Building n breaking neural networks till they hit high accuracy. Somehow made it to a competition semifinalist along the way. No big deal.
 * 🎨 **3D :** When i'm bored w/ security audits n dev work, i usually switch gears to build 3D models, animations, or random games in Blender.
